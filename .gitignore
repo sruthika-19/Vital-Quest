@@ -1,0 +1,6 @@
+# Ignore compiled Java classes
+bin/
+*.class
+
+# Ignore dynamic save data
+*.csv
