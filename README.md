@@ -1,4 +1,4 @@
-# Vital-Quest# VITAL QUEST – Mental Wellness & Scenario Analysis System
+# VITAL QUEST – Mental Wellness & Scenario Analysis System
 
 **Tagline:** Understand the factors. Analyze the situation. Reflect on wellbeing.
 
